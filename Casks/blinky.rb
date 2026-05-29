@@ -1,6 +1,6 @@
 cask "blinky" do
   version "1.0"
-  sha256 "bef173b3e52775be10547c80d8744efca61c975c25173b2e02ebca2da19ed748"
+  sha256 "9f080d5d35a9bc468de0122eaca3d3f2eaed55fe4b45200d8144d1995fd76cbf"
 
   url "https://github.com/malicose/blinky-releases/releases/download/v#{version}/Blinky-#{version}.zip"
   name "Blinky"
